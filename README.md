@@ -1,11 +1,10 @@
 <div align="center">
 
 ```
-                                        ╔══════════════════════════════════════╗
-                                        ║     MasterBlock Studio — Discord     ║
-                                        ╚══════════════════════════════════════╝
-          
-                                                 S T U D I O   A G E N T
+                                                                            ╔══════════════════════════════════════╗
+                                                                            ║     MasterBlock Studio — Discord     ║
+                                                                            ╚══════════════════════════════════════╝
+                                                                               S T U D I O   A G E N T
 ```
 
 **A Raspberry Pi Discord bot with its own terminal command center.**  
