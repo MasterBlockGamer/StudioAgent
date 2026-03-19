@@ -1,10 +1,9 @@
 <div align="center">
 
 ```
- ___  ___  ___  ___  ___  ___     ___  ___  ___  ___  ___
- |  \/  | / _ \/ __||_  ||_  |   | _ )/ _ \|_  ||_  ||_  |
- | |\/| || (_) \__ \ / /  / /    | _ \ (_) | / /  / /  / /
- |_|  |_| \___/|___//_/  /_/     |___/\___/ /_/  /_/  /_/
+   ╔══════════════════════════════════════╗
+   ║     MasterBlock Studio — Discord     ║
+   ╚══════════════════════════════════════╝
 
         S T U D I O   A G E N T
 ```
@@ -256,5 +255,7 @@ StudioAgent/
 Built on a Raspberry Pi. Runs at 3am. No complaints.
 
 **MasterBlock Studio © 2026**
+
+Join Discord server : https://discord.gg/xyTKTFY2
 
 </div>
